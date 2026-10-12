@@ -40,3 +40,32 @@ body {
     color: #000;
     font-weight: bold;
 }
+
+#section-awal {
+    margin-top: 300px;
+}
+
+.judul-section {
+    color: #ffffff;
+    background-color: #333333;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.skill-list li {
+    display: inline;
+    background-color: #EEEEEE;
+    border: 1px solid;
+    border-color: #BBBBBB;
+    margin: 2px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+form {
+    background-color: white;
+    border: 1px solid;
+    border-color: #CCCCCC;
+    padding: 15px;
+    width: 450px;
+}
